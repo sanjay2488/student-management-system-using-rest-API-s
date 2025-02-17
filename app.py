@@ -7,8 +7,8 @@ app.config['SECRET_KEY'] = 'sanjay'
 
 # In-memory database (list of dictionaries) to store student records
 students = [
-    {"id": 1, "name": "Sanjay", "age": 24, "email": "sanjay@example.com", "class": "web-backend-engineering", "location": "fullerton", "semester": 6},
-    {"id": 2, "name": "kalea", "age": 22, "email": "kalea@example.com", "class": "Web-front end engineering", "location": "Riverside", "semester": 5}
+    {"id": 1, "name": "Sanjay", "age": 24, "email": "sanjay@gmail.com", "class": "web-backend-engineering", "location": "fullerton", "semester": 6},
+    {"id": 2, "name": "kalea", "age": 22, "email": "kalea@gmail.com", "class": "Web-front end engineering", "location": "Riverside", "semester": 5}
 ]
 
 # In-memory user storage
